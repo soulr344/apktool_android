@@ -34,9 +34,9 @@ apk="https://github.com/soulr344/apktool_android/raw/8.7.7/$aarch/app.apk";
 
 su -c mkdir -p $temp;
 echo "Fetching apk...";
-#wget "$apk";
+wget "$apk";
 echo "Fetching data...";
-#wget "$data";
+wget "$data";
 
 echo "Installing app...";
 su -c mv app.apk $temp/app.apk
