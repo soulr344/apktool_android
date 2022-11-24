@@ -1,5 +1,7 @@
 # Apktool-X
 
+`This doesn't work with android 12 apks.`
+
 If you don't know already, Apktool apk doesn't work on android Q. We've come up with a simple workaround for that. The steps are pretty simple and self-explanatory.
 
 ## The requirements:-
